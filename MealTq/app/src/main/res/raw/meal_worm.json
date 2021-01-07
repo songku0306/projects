@@ -1,0 +1,1105 @@
+[
+{
+  "image": {
+    "name": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif",
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianess": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 90000,
+    "imageStatistics": {
+      "all": {
+        "min": 4,
+        "max": 255,
+        "mean": 235.983,
+        "standardDeviation": 11120.1,
+        "kurtosis": 9.58758,
+        "skewness": -3.29304,
+        "entropy": 0.336224
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "standardDeviation": 0,
+        "kurtosis": 8.192e+51,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 164,
+        "max": 252,
+        "mean": 244.178,
+        "standardDeviation": 6436.17,
+        "kurtosis": 6.34735,
+        "skewness": -2.88917,
+        "entropy": 0.43275
+      },
+      "green": {
+        "min": 54,
+        "max": 254,
+        "mean": 227.511,
+        "standardDeviation": 16515.6,
+        "kurtosis": 2.74175,
+        "skewness": -2.14374,
+        "entropy": 0.436429
+      },
+      "blue": {
+        "min": 4,
+        "max": 252,
+        "mean": 217.244,
+        "standardDeviation": 21528.7,
+        "kurtosis": 2.53176,
+        "skewness": -2.10572,
+        "entropy": 0.475718
+      }
+    },
+    "colormapEntries": 8,
+    "colormap": [
+        "#A43604FF","#FCCAB4FF","#FC5604FF","#FCFEFCFF","#01010100",
+      "#000000FF","#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFF",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "20x100",
+    "iterations": 0,
+    "scene": 0,
+    "scenes": 8,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2020-11-30T10:44:37+00:00",
+      "date:modify": "2020-11-30T10:44:37+00:00",
+      "signature": "116c5eab8bd7637998f849f22e2f336a953c6248590391f9759411582779e6e8"
+    },
+    "artifacts": {
+      "filename": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "90000",
+    "pixelsPerSecond": "4.44659MB",
+    "userTime": "0.020u",
+    "elapsedTime": "0:01.020",
+    "version": "ImageMagick 6.9.10-68 Q16 x86_64 2020-04-01 https://imagemagick.org"
+  }
+}
+,
+{
+  "image": {
+    "name": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif",
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianess": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 90000,
+    "imageStatistics": {
+      "all": {
+        "min": 4,
+        "max": 255,
+        "mean": 235.584,
+        "standardDeviation": 11236.8,
+        "kurtosis": 9.27833,
+        "skewness": -3.24702,
+        "entropy": 0.342897
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "standardDeviation": 0,
+        "kurtosis": 8.192e+51,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 164,
+        "max": 252,
+        "mean": 243.787,
+        "standardDeviation": 6579.01,
+        "kurtosis": 5.81703,
+        "skewness": -2.79588,
+        "entropy": 0.447499
+      },
+      "green": {
+        "min": 54,
+        "max": 254,
+        "mean": 226.938,
+        "standardDeviation": 16689.4,
+        "kurtosis": 2.60757,
+        "skewness": -2.11306,
+        "entropy": 0.441331
+      },
+      "blue": {
+        "min": 4,
+        "max": 252,
+        "mean": 216.613,
+        "standardDeviation": 21678.7,
+        "kurtosis": 2.40842,
+        "skewness": -2.07608,
+        "entropy": 0.48276
+      }
+    },
+    "colormapEntries": 8,
+    "colormap": [
+        "#A43604FF","#FCCAB4FF","#FC5604FF","#FCFEFCFF","#01010100",
+      "#000000FF","#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFF",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "20x100",
+    "iterations": 0,
+    "scene": 1,
+    "scenes": 8,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2020-11-30T10:44:37+00:00",
+      "date:modify": "2020-11-30T10:44:37+00:00",
+      "signature": "429acfc9357f08d150a2d6f681860c507de9ec76d9f9d6f7c9e5e883b2aa08ce"
+    },
+    "artifacts": {
+      "filename": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif"
+    },
+    "tainted": false,
+    "filesize": "3276B",
+    "numberPixels": "90000",
+    "pixelsPerSecond": "1.45872MB",
+    "userTime": "0.060u",
+    "elapsedTime": "0:01.061",
+    "version": "ImageMagick 6.9.10-68 Q16 x86_64 2020-04-01 https://imagemagick.org"
+  }
+}
+,
+{
+  "image": {
+    "name": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif",
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianess": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 90000,
+    "imageStatistics": {
+      "all": {
+        "min": 4,
+        "max": 255,
+        "mean": 235.918,
+        "standardDeviation": 11163.7,
+        "kurtosis": 9.52868,
+        "skewness": -3.28478,
+        "entropy": 0.337014
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "standardDeviation": 0,
+        "kurtosis": 8.192e+51,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 164,
+        "max": 252,
+        "mean": 243.884,
+        "standardDeviation": 6543.74,
+        "kurtosis": 5.94477,
+        "skewness": -2.81863,
+        "entropy": 0.443844
+      },
+      "green": {
+        "min": 54,
+        "max": 254,
+        "mean": 227.462,
+        "standardDeviation": 16582.8,
+        "kurtosis": 2.73997,
+        "skewness": -2.14504,
+        "entropy": 0.431843
+      },
+      "blue": {
+        "min": 4,
+        "max": 252,
+        "mean": 217.324,
+        "standardDeviation": 21528.4,
+        "kurtosis": 2.54013,
+        "skewness": -2.1085,
+        "entropy": 0.472369
+      }
+    },
+    "colormapEntries": 8,
+    "colormap": [
+        "#A43604FF","#FCCAB4FF","#FC5604FF","#FCFEFCFF","#01010100",
+      "#000000FF","#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFF",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "20x100",
+    "iterations": 0,
+    "scene": 2,
+    "scenes": 8,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2020-11-30T10:44:37+00:00",
+      "date:modify": "2020-11-30T10:44:37+00:00",
+      "signature": "a5422075b5943d28a921aec891422db1af90791a4f93b0e914c42c331f43d0bb"
+    },
+    "artifacts": {
+      "filename": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif"
+    },
+    "tainted": false,
+    "filesize": "6555B",
+    "numberPixels": "90000",
+    "pixelsPerSecond": "963369B",
+    "userTime": "0.110u",
+    "elapsedTime": "0:01.093",
+    "version": "ImageMagick 6.9.10-68 Q16 x86_64 2020-04-01 https://imagemagick.org"
+  }
+}
+,
+{
+  "image": {
+    "name": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif",
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianess": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 90000,
+    "imageStatistics": {
+      "all": {
+        "min": 4,
+        "max": 255,
+        "mean": 235.731,
+        "standardDeviation": 11164.2,
+        "kurtosis": 9.41671,
+        "skewness": -3.26596,
+        "entropy": 0.342473
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "standardDeviation": 0,
+        "kurtosis": 8.192e+51,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 164,
+        "max": 252,
+        "mean": 244.08,
+        "standardDeviation": 6472.32,
+        "kurtosis": 6.20981,
+        "skewness": -2.86526,
+        "entropy": 0.43647
+      },
+      "green": {
+        "min": 54,
+        "max": 254,
+        "mean": 227.116,
+        "standardDeviation": 16580.2,
+        "kurtosis": 2.65866,
+        "skewness": -2.12254,
+        "entropy": 0.446008
+      },
+      "blue": {
+        "min": 4,
+        "max": 252,
+        "mean": 216.729,
+        "standardDeviation": 21604.5,
+        "kurtosis": 2.44917,
+        "skewness": -2.08397,
+        "entropy": 0.487414
+      }
+    },
+    "colormapEntries": 8,
+    "colormap": [
+        "#A43604FF","#FCCAB4FF","#FC5604FF","#FCFEFCFF","#01010100",
+      "#000000FF","#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFF",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "20x100",
+    "iterations": 0,
+    "scene": 3,
+    "scenes": 8,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2020-11-30T10:44:37+00:00",
+      "date:modify": "2020-11-30T10:44:37+00:00",
+      "signature": "8403b1505608e1b34b1fd3eb587a12d1a39bb614060a15d734d4db8a7e3a08e4"
+    },
+    "artifacts": {
+      "filename": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif"
+    },
+    "tainted": false,
+    "filesize": "9832B",
+    "numberPixels": "90000",
+    "pixelsPerSecond": "788193B",
+    "userTime": "0.130u",
+    "elapsedTime": "0:01.114",
+    "version": "ImageMagick 6.9.10-68 Q16 x86_64 2020-04-01 https://imagemagick.org"
+  }
+}
+,
+{
+  "image": {
+    "name": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif",
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianess": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 90000,
+    "imageStatistics": {
+      "all": {
+        "min": 4,
+        "max": 255,
+        "mean": 235.731,
+        "standardDeviation": 11164.2,
+        "kurtosis": 9.41671,
+        "skewness": -3.26596,
+        "entropy": 0.342473
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "standardDeviation": 0,
+        "kurtosis": 8.192e+51,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 164,
+        "max": 252,
+        "mean": 244.08,
+        "standardDeviation": 6472.32,
+        "kurtosis": 6.20981,
+        "skewness": -2.86526,
+        "entropy": 0.43647
+      },
+      "green": {
+        "min": 54,
+        "max": 254,
+        "mean": 227.116,
+        "standardDeviation": 16580.2,
+        "kurtosis": 2.65866,
+        "skewness": -2.12254,
+        "entropy": 0.446008
+      },
+      "blue": {
+        "min": 4,
+        "max": 252,
+        "mean": 216.729,
+        "standardDeviation": 21604.5,
+        "kurtosis": 2.44917,
+        "skewness": -2.08397,
+        "entropy": 0.487414
+      }
+    },
+    "colormapEntries": 8,
+    "colormap": [
+        "#A43604FF","#FCCAB4FF","#FC5604FF","#FCFEFCFF","#01010100",
+      "#000000FF","#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFF",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "20x100",
+    "iterations": 0,
+    "scene": 4,
+    "scenes": 8,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2020-11-30T10:44:37+00:00",
+      "date:modify": "2020-11-30T10:44:37+00:00",
+      "signature": "8403b1505608e1b34b1fd3eb587a12d1a39bb614060a15d734d4db8a7e3a08e4"
+    },
+    "artifacts": {
+      "filename": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif"
+    },
+    "tainted": false,
+    "filesize": "13108B",
+    "numberPixels": "90000",
+    "pixelsPerSecond": "681252B",
+    "userTime": "0.150u",
+    "elapsedTime": "0:01.132",
+    "version": "ImageMagick 6.9.10-68 Q16 x86_64 2020-04-01 https://imagemagick.org"
+  }
+}
+,
+{
+  "image": {
+    "name": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif",
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianess": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 90000,
+    "imageStatistics": {
+      "all": {
+        "min": 4,
+        "max": 255,
+        "mean": 235.918,
+        "standardDeviation": 11163.7,
+        "kurtosis": 9.52868,
+        "skewness": -3.28478,
+        "entropy": 0.337014
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "standardDeviation": 0,
+        "kurtosis": 8.192e+51,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 164,
+        "max": 252,
+        "mean": 243.884,
+        "standardDeviation": 6543.74,
+        "kurtosis": 5.94477,
+        "skewness": -2.81863,
+        "entropy": 0.443844
+      },
+      "green": {
+        "min": 54,
+        "max": 254,
+        "mean": 227.462,
+        "standardDeviation": 16582.8,
+        "kurtosis": 2.73997,
+        "skewness": -2.14504,
+        "entropy": 0.431843
+      },
+      "blue": {
+        "min": 4,
+        "max": 252,
+        "mean": 217.324,
+        "standardDeviation": 21528.4,
+        "kurtosis": 2.54013,
+        "skewness": -2.1085,
+        "entropy": 0.472369
+      }
+    },
+    "colormapEntries": 8,
+    "colormap": [
+        "#A43604FF","#FCCAB4FF","#FC5604FF","#FCFEFCFF","#01010100",
+      "#000000FF","#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFF",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "20x100",
+    "iterations": 0,
+    "scene": 5,
+    "scenes": 8,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2020-11-30T10:44:37+00:00",
+      "date:modify": "2020-11-30T10:44:37+00:00",
+      "signature": "a5422075b5943d28a921aec891422db1af90791a4f93b0e914c42c331f43d0bb"
+    },
+    "artifacts": {
+      "filename": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif"
+    },
+    "tainted": false,
+    "filesize": "16385B",
+    "numberPixels": "90000",
+    "pixelsPerSecond": "598394B",
+    "userTime": "0.180u",
+    "elapsedTime": "0:01.150",
+    "version": "ImageMagick 6.9.10-68 Q16 x86_64 2020-04-01 https://imagemagick.org"
+  }
+}
+,
+{
+  "image": {
+    "name": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif",
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianess": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 90000,
+    "imageStatistics": {
+      "all": {
+        "min": 4,
+        "max": 255,
+        "mean": 235.584,
+        "standardDeviation": 11236.8,
+        "kurtosis": 9.27833,
+        "skewness": -3.24702,
+        "entropy": 0.342897
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "standardDeviation": 0,
+        "kurtosis": 8.192e+51,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 164,
+        "max": 252,
+        "mean": 243.787,
+        "standardDeviation": 6579.01,
+        "kurtosis": 5.81703,
+        "skewness": -2.79588,
+        "entropy": 0.447499
+      },
+      "green": {
+        "min": 54,
+        "max": 254,
+        "mean": 226.938,
+        "standardDeviation": 16689.4,
+        "kurtosis": 2.60757,
+        "skewness": -2.11306,
+        "entropy": 0.441331
+      },
+      "blue": {
+        "min": 4,
+        "max": 252,
+        "mean": 216.613,
+        "standardDeviation": 21678.7,
+        "kurtosis": 2.40842,
+        "skewness": -2.07608,
+        "entropy": 0.48276
+      }
+    },
+    "colormapEntries": 8,
+    "colormap": [
+        "#A43604FF","#FCCAB4FF","#FC5604FF","#FCFEFCFF","#01010100",
+      "#000000FF","#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFF",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "20x100",
+    "iterations": 0,
+    "scene": 6,
+    "scenes": 8,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2020-11-30T10:44:37+00:00",
+      "date:modify": "2020-11-30T10:44:37+00:00",
+      "signature": "429acfc9357f08d150a2d6f681860c507de9ec76d9f9d6f7c9e5e883b2aa08ce"
+    },
+    "artifacts": {
+      "filename": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif"
+    },
+    "tainted": false,
+    "filesize": "19663B",
+    "numberPixels": "90000",
+    "pixelsPerSecond": "534216B",
+    "userTime": "0.200u",
+    "elapsedTime": "0:01.168",
+    "version": "ImageMagick 6.9.10-68 Q16 x86_64 2020-04-01 https://imagemagick.org"
+  }
+}
+,
+{
+  "image": {
+    "name": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif",
+    "format": "GIF",
+    "formatDescription": "CompuServe graphics interchange format",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "endianess": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 90000,
+    "imageStatistics": {
+      "all": {
+        "min": 4,
+        "max": 255,
+        "mean": 235.983,
+        "standardDeviation": 11120.1,
+        "kurtosis": 9.58758,
+        "skewness": -3.29304,
+        "entropy": 0.336224
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "standardDeviation": 0,
+        "kurtosis": 8.192e+51,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 164,
+        "max": 252,
+        "mean": 244.178,
+        "standardDeviation": 6436.17,
+        "kurtosis": 6.34735,
+        "skewness": -2.88917,
+        "entropy": 0.43275
+      },
+      "green": {
+        "min": 54,
+        "max": 254,
+        "mean": 227.511,
+        "standardDeviation": 16515.6,
+        "kurtosis": 2.74175,
+        "skewness": -2.14374,
+        "entropy": 0.436429
+      },
+      "blue": {
+        "min": 4,
+        "max": 252,
+        "mean": 217.244,
+        "standardDeviation": 21528.7,
+        "kurtosis": 2.53176,
+        "skewness": -2.10572,
+        "entropy": 0.475718
+      }
+    },
+    "colormapEntries": 8,
+    "colormap": [
+        "#A43604FF","#FCCAB4FF","#FC5604FF","#FCFEFCFF","#01010100",
+      "#000000FF","#000000FF","#000000FF"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFF",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 300,
+      "height": 300,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Background",
+    "delay": "20x100",
+    "iterations": 0,
+    "scene": 7,
+    "scenes": 8,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2020-11-30T10:44:37+00:00",
+      "date:modify": "2020-11-30T10:44:37+00:00",
+      "signature": "116c5eab8bd7637998f849f22e2f336a953c6248590391f9759411582779e6e8"
+    },
+    "artifacts": {
+      "filename": "./api/tmp/0c95f9897c0c17b07d37d6716c06c7bc/meal_worm.gif"
+    },
+    "tainted": false,
+    "filesize": "22941B",
+    "numberPixels": "90000",
+    "pixelsPerSecond": "481413B",
+    "userTime": "0.230u",
+    "elapsedTime": "0:01.186",
+    "version": "ImageMagick 6.9.10-68 Q16 x86_64 2020-04-01 https://imagemagick.org"
+  }
+}
+]
